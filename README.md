@@ -1,6 +1,6 @@
 # StudentAddress API
 
-API REST desenvolvida com Spring Boot para gerenciamento de cadastro de estudantes, criada para fins acadêmicos na UNASP.
+API REST desenvolvida com Spring Boot para gerenciamento de cadastro de estudantes, criada para ser utilizada com o app android [https://github.com/andrelzlima7/StudentAddressUnaps](https://github.com/andrelzlima7/StudentAddressUnaps) com fins acadêmicos para o UNASP.
 
 ## Tecnologias
 
